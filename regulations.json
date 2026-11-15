@@ -1,0 +1,149 @@
+{
+  "schema": 1,
+  "version": 1,
+  "published": "2026-11-15",
+  "datasets": [
+    {
+      "licenseYear": "2026-27",
+      "validFrom": "2026-09-01",
+      "validTo": "2027-08-31",
+      "verifiedOn": "2026-11-15",
+      "allRulesUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/",
+      "measuring": "Total length: mouth closed, tail pinched.",
+      "species": [
+        {
+          "id": "redfish",
+          "name": "Redfish (red drum)",
+          "minInches": 20,
+          "maxInches": 28,
+          "dailyBag": 3,
+          "possession": "6",
+          "extra": "1 over 28 in with Red Drum Tag (+1 with Bonus Tag) per license year",
+          "tpwdUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/drum-bag-length-limits"
+        },
+        {
+          "id": "trout",
+          "name": "Speckled trout",
+          "minInches": 15,
+          "maxInches": 20,
+          "dailyBag": 3,
+          "possession": "Double the bag",
+          "extra": "1 over 28 in with Spotted Seatrout Tag (+1 with Bonus Tag)",
+          "tpwdUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/seatrout-bag-length-limits"
+        },
+        {
+          "id": "flounder",
+          "name": "Flounder",
+          "minInches": 15,
+          "maxInches": null,
+          "dailyBag": 5,
+          "possession": "Equal to the bag",
+          "closure": {
+            "startMonth": 11,
+            "startDay": 1,
+            "endMonth": 12,
+            "endDay": 14,
+            "note": "Harvest CLOSED Nov 1 – Dec 14"
+          },
+          "tpwdUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/flounder-bag-length-limits"
+        },
+        {
+          "id": "black-drum",
+          "name": "Black drum",
+          "minInches": 14,
+          "maxInches": 30,
+          "dailyBag": 5,
+          "possession": "Double the bag",
+          "extra": "1 over 52 in per day allowed; counts toward the bag",
+          "tpwdUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/drum-bag-length-limits"
+        },
+        {
+          "id": "sheepshead",
+          "name": "Sheepshead",
+          "minInches": 15,
+          "maxInches": null,
+          "dailyBag": 5,
+          "possession": "Double the bag",
+          "tpwdUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/sheepshead-bag-length-limits"
+        },
+        {
+          "id": "spanish-mackerel",
+          "name": "Spanish mackerel",
+          "minInches": 14,
+          "maxInches": null,
+          "dailyBag": 15,
+          "possession": "Double the bag",
+          "tpwdUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/mackerel-bag-length-limits"
+        },
+        {
+          "id": "king-mackerel",
+          "name": "King mackerel",
+          "minInches": 27,
+          "maxInches": null,
+          "dailyBag": 3,
+          "possession": "Double the bag",
+          "tpwdUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/mackerel-bag-length-limits"
+        },
+        {
+          "id": "red-snapper",
+          "name": "Red snapper (state waters)",
+          "minInches": 15,
+          "maxInches": null,
+          "dailyBag": 4,
+          "possession": "Double the bag",
+          "extra": "Circle hooks required when fishing natural bait.",
+          "handCheck": "Federal waters have different rules and seasons. Check TPWD before keeping one.",
+          "tpwdUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/snapper-bag-length-limits"
+        },
+        {
+          "id": "gafftop",
+          "name": "Gafftopsail catfish",
+          "minInches": 14,
+          "maxInches": null,
+          "dailyBag": null,
+          "possession": "No limit",
+          "tpwdUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/catfish-bag-length-limits-saltwater"
+        },
+        {
+          "id": "cobia",
+          "name": "Cobia",
+          "minInches": 40,
+          "maxInches": null,
+          "dailyBag": 1,
+          "possession": "Double the bag",
+          "tpwdUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/cobia-bag-length-limits"
+        },
+        {
+          "id": "tarpon",
+          "name": "Tarpon",
+          "minInches": 85,
+          "maxInches": null,
+          "dailyBag": 1,
+          "possession": "Double the bag",
+          "extra": "Nearly all tarpon are released. Keep big fish in the water.",
+          "tpwdUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/tarpon-bag-length-limits"
+        },
+        {
+          "id": "snook",
+          "name": "Snook",
+          "minInches": 24,
+          "maxInches": 28,
+          "dailyBag": 1,
+          "possession": "2",
+          "tpwdUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/snook-bag-length-limits"
+        },
+        {
+          "id": "mangrove-snapper",
+          "name": "Mangrove snapper (gray)",
+          "minInches": null,
+          "maxInches": null,
+          "dailyBag": null,
+          "possession": "No limit (state waters)",
+          "extra": "No Texas state limit. Federal waters (past 9 nautical miles): 12 in minimum, 10 per day.",
+          "tpwdUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/snapper-bag-length-limits"
+        }
+      ]
+    }
+  ],
+  "activeClosures": []
+}
