@@ -1,0 +1,1626 @@
+{
+  "schema": 1,
+  "version": 1,
+  "published": "2026-11-16",
+  "ramps": [
+    {
+      "id": "nueces021",
+      "water": "Upper Laguna Madre",
+      "lat": 27.7376,
+      "lon": -97.1367
+    },
+    {
+      "id": "nueces010",
+      "water": "Upper Laguna Madre",
+      "lat": 27.6119,
+      "lon": -97.298
+    },
+    {
+      "id": "nueces004",
+      "water": "Nueces Bay",
+      "lat": 27.8373,
+      "lon": -97.3812
+    },
+    {
+      "id": "sanpatricio005",
+      "water": "Nueces Bay",
+      "lat": 27.858,
+      "lon": -97.3528
+    },
+    {
+      "id": "kleberg002",
+      "water": "Gulf of Mexico",
+      "lat": 27.54828,
+      "lon": -97.23769
+    },
+    {
+      "id": "aransas015",
+      "water": "Aransas Bay",
+      "lat": 27.9133,
+      "lon": -97.133
+    },
+    {
+      "id": "nueces013",
+      "water": "Upper Laguna Madre",
+      "lat": 27.6349,
+      "lon": -97.2381
+    },
+    {
+      "id": "kenedy002",
+      "water": "Upper Laguna Madre",
+      "lat": 27.2042,
+      "lon": -97.3883
+    },
+    {
+      "id": "aransas012",
+      "water": "Aransas Bay",
+      "lat": 28.0267,
+      "lon": -97.1387
+    },
+    {
+      "id": "sanpatricio008",
+      "water": "Redfish Bay",
+      "lat": 27.8889,
+      "lon": -97.1467
+    },
+    {
+      "id": "aransas002",
+      "water": "Aransas Bay",
+      "lat": 28.1516,
+      "lon": -96.9737
+    },
+    {
+      "id": "aransas005",
+      "water": "Aransas Bay",
+      "lat": 28.1135,
+      "lon": -97.0254
+    },
+    {
+      "id": "aransas013",
+      "water": "Aransas Bay",
+      "lat": 27.9923,
+      "lon": -97.0729
+    },
+    {
+      "id": "sanpatricio009",
+      "water": "Redfish Bay",
+      "lat": 27.89006,
+      "lon": -97.14883
+    },
+    {
+      "id": "kleberg005",
+      "water": "Gulf of Mexico",
+      "lat": 27.4139,
+      "lon": -97.3019
+    },
+    {
+      "id": "nueces011",
+      "water": "Upper Laguna Madre",
+      "lat": 27.6362,
+      "lon": -97.2412
+    },
+    {
+      "id": "nueces006",
+      "water": "Corpus Christi Bay",
+      "lat": 27.7915,
+      "lon": -97.3893
+    },
+    {
+      "id": "kleberg008",
+      "water": "Laguna Salada Bay",
+      "lat": 27.2776,
+      "lon": -97.7083
+    },
+    {
+      "id": "sanpatricio006",
+      "water": "Corpus Christi Bay",
+      "lat": 27.83764,
+      "lon": -97.22025
+    },
+    {
+      "id": "aransas009",
+      "water": "Aransas Bay",
+      "lat": 28.031,
+      "lon": -97.0389
+    },
+    {
+      "id": "nueces014",
+      "water": "Upper Laguna Madre",
+      "lat": 27.6341,
+      "lon": -97.2362
+    },
+    {
+      "id": "sanpatricio007",
+      "water": "Corpus Christi Bay",
+      "lat": 27.8312,
+      "lon": -97.2249
+    },
+    {
+      "id": "kleberg009",
+      "water": "Laguna Salada Bay",
+      "lat": 27.2692,
+      "lon": -97.7261
+    },
+    {
+      "id": "aransas010",
+      "water": "Aransas Bay",
+      "lat": 28.0307,
+      "lon": -97.0387
+    },
+    {
+      "id": "kleberg003",
+      "water": "Upper Laguna Madre",
+      "lat": 27.4732,
+      "lon": -97.3091
+    },
+    {
+      "id": "aransas003",
+      "water": "Aransas Bay",
+      "lat": 28.142,
+      "lon": -96.9765
+    },
+    {
+      "id": "nueces023",
+      "water": "Corpus Christi Ship Channel",
+      "lat": 27.8391,
+      "lon": -97.0681
+    },
+    {
+      "id": "aransas006",
+      "water": "Aransas Bay",
+      "lat": 28.0955,
+      "lon": -97.0519
+    },
+    {
+      "id": "aransas014",
+      "water": "Aransas Bay",
+      "lat": 27.98969,
+      "lon": -97.07922
+    },
+    {
+      "id": "kleberg006",
+      "water": "Cayo del Grullo Bay",
+      "lat": 27.3631,
+      "lon": -97.7035
+    },
+    {
+      "id": "nueces024",
+      "water": "Packery Channel",
+      "lat": 27.6183,
+      "lon": -97.2124
+    },
+    {
+      "id": "nueces012",
+      "water": "Upper Laguna Madre",
+      "lat": 27.6314,
+      "lon": -97.2392
+    },
+    {
+      "id": "nueces007",
+      "water": "Corpus Christi Bay",
+      "lat": 27.7114,
+      "lon": -97.3121
+    },
+    {
+      "id": "aransas007",
+      "water": "Aransas Bay",
+      "lat": 28.0603,
+      "lon": -97.0337
+    },
+    {
+      "id": "kleberg007",
+      "water": "Cayo del Grullo Bay",
+      "lat": 27.3193,
+      "lon": -97.6826
+    },
+    {
+      "id": "kenedy001",
+      "water": "Gulf of Mexico",
+      "lat": 27.2738,
+      "lon": -97.3489
+    },
+    {
+      "id": "kleberg001",
+      "water": "Gulf of Mexico",
+      "lat": 27.5611,
+      "lon": -97.231
+    },
+    {
+      "id": "nueces018",
+      "water": "Upper Laguna Madre",
+      "lat": 27.59983,
+      "lon": -97.23003
+    },
+    {
+      "id": "sanpatricio010",
+      "water": "Redfish Bay",
+      "lat": 27.8999,
+      "lon": -97.1366
+    },
+    {
+      "id": "kleberg004",
+      "water": "Upper Laguna Madre",
+      "lat": 27.4685,
+      "lon": -97.3131
+    },
+    {
+      "id": "aransas004",
+      "water": "Aransas Bay",
+      "lat": 28.1286,
+      "lon": -96.9857
+    },
+    {
+      "id": "aransas001",
+      "water": "Aransas Bay",
+      "lat": 28.2172,
+      "lon": -96.9878
+    },
+    {
+      "id": "brazoria003",
+      "water": "Brazos River",
+      "lat": 28.9468,
+      "lon": -95.3809
+    },
+    {
+      "id": "brazoria004",
+      "water": "Brazos River",
+      "lat": 28.9016,
+      "lon": -95.3844
+    },
+    {
+      "id": "brazoria008",
+      "water": "Chocolate Bayou and Bay",
+      "lat": 29.2118,
+      "lon": -95.2083
+    },
+    {
+      "id": "brazoria010",
+      "water": "Bastrop Bayou",
+      "lat": 29.0943,
+      "lon": -95.2839
+    },
+    {
+      "id": "brazoria015",
+      "water": "Intracoastal Canal",
+      "lat": 28.9798,
+      "lon": -95.2684
+    },
+    {
+      "id": "brazoria016",
+      "water": "Cold Pass",
+      "lat": 29.0789,
+      "lon": -95.1304
+    },
+    {
+      "id": "calhoun001",
+      "water": "Guadalupe River",
+      "lat": 28.6815,
+      "lon": -96.5628
+    },
+    {
+      "id": "cameron008",
+      "water": "Arroyo Colorado",
+      "lat": 26.3497,
+      "lon": -97.391
+    },
+    {
+      "id": "cameron009",
+      "water": "Lower Laguna Madre",
+      "lat": 26.1374,
+      "lon": -97.2928
+    },
+    {
+      "id": "cameron010",
+      "water": "Lower Laguna Madre",
+      "lat": 26.0782,
+      "lon": -97.2296
+    },
+    {
+      "id": "cameron011",
+      "water": "Lower Laguna Madre",
+      "lat": 26.0789,
+      "lon": -97.2251
+    },
+    {
+      "id": "cameron012",
+      "water": "Lower Laguna Madre",
+      "lat": 26.0753,
+      "lon": -97.2157
+    },
+    {
+      "id": "cameron013",
+      "water": "Lower Laguna Madre",
+      "lat": 26.0744,
+      "lon": -97.2143
+    },
+    {
+      "id": "cameron017",
+      "water": "Lower Laguna Madre",
+      "lat": 26.0786,
+      "lon": -97.1692
+    },
+    {
+      "id": "cameron018",
+      "water": "Lower Laguna Madre",
+      "lat": 26.1038,
+      "lon": -97.1694
+    },
+    {
+      "id": "cameron019",
+      "water": "Lower Laguna Madre",
+      "lat": 26.1228,
+      "lon": -97.1724
+    },
+    {
+      "id": "cameron020",
+      "water": "South Padre Island",
+      "lat": 26.1292,
+      "lon": -97.1714
+    },
+    {
+      "id": "cameron022",
+      "water": "Lower Laguna Madre",
+      "lat": 26.1466,
+      "lon": -97.1788
+    },
+    {
+      "id": "cameron023",
+      "water": "Lower Laguna Madre",
+      "lat": 26.0019,
+      "lon": -97.2983
+    },
+    {
+      "id": "cameron025",
+      "water": "Rio Grande",
+      "lat": 25.9585,
+      "lon": -97.2044
+    },
+    {
+      "id": "cameron026",
+      "water": "South Bay",
+      "lat": 25.9942,
+      "lon": -97.1831
+    },
+    {
+      "id": "cameron027",
+      "water": "South Bay",
+      "lat": 25.9978,
+      "lon": -97.1528
+    },
+    {
+      "id": "cameron029",
+      "water": "Jim's Pier Marina and Ramp",
+      "lat": 26.1041,
+      "lon": -97.1701
+    },
+    {
+      "id": "cameron030",
+      "water": "Adolph Thomae County Park West",
+      "lat": 26.3494,
+      "lon": -97.3927
+    },
+    {
+      "id": "chambers003",
+      "water": "Trinity Bay",
+      "lat": 29.8073,
+      "lon": -94.8099
+    },
+    {
+      "id": "chambers004",
+      "water": "Trinity Bay",
+      "lat": 29.7452,
+      "lon": -94.8282
+    },
+    {
+      "id": "chambers005",
+      "water": "Galveston Bay",
+      "lat": 29.6792,
+      "lon": -94.9258
+    },
+    {
+      "id": "chambers012",
+      "water": "Trinity Bay",
+      "lat": 29.7551,
+      "lon": -94.692
+    },
+    {
+      "id": "chambers013",
+      "water": "Trinity Bay",
+      "lat": 29.7319,
+      "lon": -94.6971
+    },
+    {
+      "id": "chambers016",
+      "water": "East Bay and Galveston Bay",
+      "lat": 29.5466,
+      "lon": -94.7874
+    },
+    {
+      "id": "chambers017",
+      "water": "Oyster Bayou",
+      "lat": 29.6141,
+      "lon": -94.5298
+    },
+    {
+      "id": "chambers018",
+      "water": "East Bay",
+      "lat": 29.5758,
+      "lon": -94.5559
+    },
+    {
+      "id": "chambers019",
+      "water": "East Bay",
+      "lat": 29.5576,
+      "lon": -94.5308
+    },
+    {
+      "id": "galveston001",
+      "water": "Galveston Bay",
+      "lat": 29.5479,
+      "lon": -95.0225
+    },
+    {
+      "id": "galveston002",
+      "water": "West Shoreline Galveston Bay",
+      "lat": 29.5063,
+      "lon": -94.9576
+    },
+    {
+      "id": "galveston003",
+      "water": "West Shoreline Galveston Bay",
+      "lat": 29.4963,
+      "lon": -94.9108
+    },
+    {
+      "id": "galveston004",
+      "water": "April Fools Point",
+      "lat": 29.4718,
+      "lon": -94.9261
+    },
+    {
+      "id": "galveston005",
+      "water": "Dickinson Bayou / Galveston Bay",
+      "lat": 29.4631,
+      "lon": -94.9736
+    },
+    {
+      "id": "galveston006",
+      "water": "Dickinson Bayou",
+      "lat": 29.4568,
+      "lon": -95.0479
+    },
+    {
+      "id": "galveston007",
+      "water": "Dollar Point / Galveston Bay",
+      "lat": 29.4223,
+      "lon": -94.8897
+    },
+    {
+      "id": "galveston008",
+      "water": "Texas City Dike",
+      "lat": 29.3742,
+      "lon": -94.8367
+    },
+    {
+      "id": "galveston009",
+      "water": "Texas City Dike",
+      "lat": 29.3663,
+      "lon": -94.8153
+    },
+    {
+      "id": "galveston010",
+      "water": "Meacoms Canal",
+      "lat": 29.3358,
+      "lon": -95.0231
+    },
+    {
+      "id": "galveston011",
+      "water": "Highland Bayou",
+      "lat": 29.3322,
+      "lon": -94.9463
+    },
+    {
+      "id": "galveston012",
+      "water": "Jones Bay",
+      "lat": 29.3068,
+      "lon": -94.9065
+    },
+    {
+      "id": "galveston014",
+      "water": "West Bay",
+      "lat": 29.2889,
+      "lon": -94.8739
+    },
+    {
+      "id": "galveston015",
+      "water": "West Bay",
+      "lat": 29.1451,
+      "lon": -95.0468
+    },
+    {
+      "id": "galveston016",
+      "water": "West Galveston Bay",
+      "lat": 29.1888,
+      "lon": -94.9799
+    },
+    {
+      "id": "galveston017",
+      "water": "West Galveston Bay",
+      "lat": 29.2075,
+      "lon": -94.9491
+    },
+    {
+      "id": "galveston018",
+      "water": "West Galveston Bay",
+      "lat": 29.2854,
+      "lon": -94.8365
+    },
+    {
+      "id": "galveston020",
+      "water": "East Galveston Bay",
+      "lat": 29.4305,
+      "lon": -94.7097
+    },
+    {
+      "id": "galveston021",
+      "water": "East Galveston Bay",
+      "lat": 29.4819,
+      "lon": -94.6046
+    },
+    {
+      "id": "galveston022",
+      "water": "East Galveston Bay",
+      "lat": 29.5151,
+      "lon": -94.5124
+    },
+    {
+      "id": "galveston023",
+      "water": "East Galveston Bay",
+      "lat": 29.5947,
+      "lon": -94.3905
+    },
+    {
+      "id": "galveston024",
+      "water": "Texas City Dike 1",
+      "lat": 29.3904,
+      "lon": -94.8848
+    },
+    {
+      "id": "galveston025",
+      "water": "Texas City Dike 2",
+      "lat": 29.3866,
+      "lon": -94.8748
+    },
+    {
+      "id": "galveston026",
+      "water": "Galveston Island State Park - Dana Cove",
+      "lat": 29.1974,
+      "lon": -94.9662
+    },
+    {
+      "id": "galveston027",
+      "water": "Galveston Island State Park - Oak Bayou",
+      "lat": 29.2048,
+      "lon": -94.9571
+    },
+    {
+      "id": "galveston028",
+      "water": "Galveston Island State Park - Jenkins Bayou",
+      "lat": 29.213,
+      "lon": -94.9534
+    },
+    {
+      "id": "harris019",
+      "water": "Burnett Bay",
+      "lat": 29.7595,
+      "lon": -95.0558
+    },
+    {
+      "id": "harris020",
+      "water": "Cedar Bayou",
+      "lat": 29.7231,
+      "lon": -94.9429
+    },
+    {
+      "id": "harris021",
+      "water": "Tabbs Bay",
+      "lat": 29.6816,
+      "lon": -94.9366
+    },
+    {
+      "id": "harris022",
+      "water": "Tabbs Bay",
+      "lat": 29.7129,
+      "lon": -94.9935
+    },
+    {
+      "id": "harris023",
+      "water": "Galveston Bay",
+      "lat": 29.65,
+      "lon": -95.0113
+    },
+    {
+      "id": "harris024",
+      "water": "Galveston Bay",
+      "lat": 29.5909,
+      "lon": -94.993
+    },
+    {
+      "id": "harris027",
+      "water": "Kemah Channel",
+      "lat": 29.5513,
+      "lon": -95.0237
+    },
+    {
+      "id": "harris028",
+      "water": "Clear Lake",
+      "lat": 29.5636,
+      "lon": -95.0697
+    },
+    {
+      "id": "harris042",
+      "water": "San Jacinto River",
+      "lat": 29.7331,
+      "lon": -94.9855
+    },
+    {
+      "id": "jackson011",
+      "water": "Carancahua Bay",
+      "lat": 28.7379,
+      "lon": -96.4018
+    },
+    {
+      "id": "jefferson005",
+      "water": "Taylors Bayou",
+      "lat": 29.8829,
+      "lon": -94.05
+    },
+    {
+      "id": "jefferson006",
+      "water": "Neches River",
+      "lat": 29.97031,
+      "lon": -93.87419
+    },
+    {
+      "id": "jefferson007",
+      "water": "Neches River",
+      "lat": 29.9971,
+      "lon": -93.9518
+    },
+    {
+      "id": "jefferson008",
+      "water": "Sabine Lake",
+      "lat": 29.8673,
+      "lon": -93.9221
+    },
+    {
+      "id": "jefferson009",
+      "water": "Sabine Lake",
+      "lat": 29.8599,
+      "lon": -93.9303
+    },
+    {
+      "id": "jefferson010",
+      "water": "Sabine Lake",
+      "lat": 29.7643,
+      "lon": -93.8982
+    },
+    {
+      "id": "jefferson011",
+      "water": "Intracoastal Waterway",
+      "lat": 29.8242,
+      "lon": -93.9645
+    },
+    {
+      "id": "jefferson012",
+      "water": "Sabine Pass",
+      "lat": 29.7396,
+      "lon": -93.8902
+    },
+    {
+      "id": "jefferson013",
+      "water": "Sabine Pass",
+      "lat": 29.7339,
+      "lon": -93.8752
+    },
+    {
+      "id": "jefferson014",
+      "water": "Gulf of Mexico",
+      "lat": 29.6734,
+      "lon": -94.0469
+    },
+    {
+      "id": "matagorda003",
+      "water": "Colorado River",
+      "lat": 28.7874,
+      "lon": -95.9959
+    },
+    {
+      "id": "matagorda004",
+      "water": "Colorado River",
+      "lat": 28.6703,
+      "lon": -95.9648
+    },
+    {
+      "id": "matagorda007",
+      "water": "Caney Creek",
+      "lat": 28.7722,
+      "lon": -95.6341
+    },
+    {
+      "id": "matagorda008",
+      "water": "Caney Creek",
+      "lat": 28.7684,
+      "lon": -95.6404
+    },
+    {
+      "id": "matagorda009",
+      "water": "Tres Palacios Bay",
+      "lat": 28.7045,
+      "lon": -96.2093
+    },
+    {
+      "id": "matagorda010",
+      "water": "Tres Palacios Bay",
+      "lat": 28.6966,
+      "lon": -96.2307
+    },
+    {
+      "id": "matagorda011",
+      "water": "West Matagorda Bay",
+      "lat": 28.6987,
+      "lon": -96.2184
+    },
+    {
+      "id": "matagorda012",
+      "water": "Turtle Bay",
+      "lat": 28.7206,
+      "lon": -96.2737
+    },
+    {
+      "id": "matagorda013",
+      "water": "East Matagorda Bay",
+      "lat": 28.6929,
+      "lon": -95.9579
+    },
+    {
+      "id": "matagorda014",
+      "water": "Intracoastal Canal",
+      "lat": 28.7634,
+      "lon": -95.6319
+    },
+    {
+      "id": "orange003",
+      "water": "Sabine Lake",
+      "lat": 29.9849,
+      "lon": -93.84
+    },
+    {
+      "id": "orange004",
+      "water": "Cow Bayou",
+      "lat": 30.0468,
+      "lon": -93.8201
+    },
+    {
+      "id": "orange005",
+      "water": "Cow Bayou",
+      "lat": 30.0381,
+      "lon": -93.7952
+    },
+    {
+      "id": "willacy002",
+      "water": "Lower Laguna Madre",
+      "lat": 26.5698,
+      "lon": -97.429
+    },
+    {
+      "id": "willacy003",
+      "water": "Lower Laguna Madre",
+      "lat": 26.5564,
+      "lon": -97.4291
+    },
+    {
+      "id": "willacy004",
+      "water": "Lower Laguna Madre",
+      "lat": 26.5525,
+      "lon": -97.428
+    },
+    {
+      "id": "willacy005",
+      "water": "Lower Laguna Madre",
+      "lat": 26.5468,
+      "lon": -97.4177
+    },
+    {
+      "id": "willacy006",
+      "water": "Lower Laguna Madre",
+      "lat": 26.5374,
+      "lon": -97.4207
+    },
+    {
+      "id": "willacy007",
+      "water": "Gulf of Mexico",
+      "lat": 26.5623,
+      "lon": -97.2706
+    },
+    {
+      "id": "willacy008",
+      "water": "Lower Laguna Madre",
+      "lat": 26.5628,
+      "lon": -97.2788
+    },
+    {
+      "id": "willacy009",
+      "water": "Gulf of Mexico",
+      "lat": 26.565,
+      "lon": -97.2766
+    },
+    {
+      "id": "cal-froggys",
+      "water": "Intracoastal Waterway",
+      "lat": 28.432,
+      "lon": -96.4329
+    },
+    {
+      "id": "cal-seadrift-bayfront",
+      "water": "San Antonio Bay",
+      "lat": 28.4089,
+      "lon": -96.7232
+    },
+    {
+      "id": "cal-swan-point",
+      "water": "San Antonio Bay",
+      "lat": 28.3899,
+      "lon": -96.7078
+    },
+    {
+      "id": "cal-six-mile",
+      "water": "Lavaca Bay",
+      "lat": 28.694,
+      "lon": -96.6628
+    },
+    {
+      "id": "cal-magnolia-beach",
+      "water": "Matagorda Bay",
+      "lat": 28.5612,
+      "lon": -96.5394
+    },
+    {
+      "id": "cal-lighthouse-beach",
+      "water": "Lavaca Bay",
+      "lat": 28.6392,
+      "lon": -96.6123
+    },
+    {
+      "id": "cal-poc-fishing-center",
+      "water": "Intracoastal Waterway",
+      "lat": 28.4386,
+      "lon": -96.414
+    },
+    {
+      "id": "cal-bayfront-peninsula",
+      "water": "Lavaca Bay",
+      "lat": 28.6181,
+      "lon": -96.6212
+    }
+  ],
+  "rampPlaces": {
+    "nueces021": {
+      "road": "State Highway 361",
+      "town": "Mustang Island"
+    },
+    "nueces010": {
+      "road": "Wyndale St",
+      "town": "Corpus Christi"
+    },
+    "nueces004": {
+      "road": "East Causeway Blvd",
+      "town": "North Beach"
+    },
+    "sanpatricio005": {
+      "road": "US Highway 181",
+      "town": "Portland"
+    },
+    "kleberg002": {
+      "town": "Kleberg County"
+    },
+    "aransas015": {
+      "road": "Bigelow St",
+      "town": "Aransas Pass"
+    },
+    "nueces013": {
+      "road": "South Padre Island Dr",
+      "town": "Corpus Christi"
+    },
+    "kenedy002": {
+      "town": "Kenedy County"
+    },
+    "aransas012": {
+      "road": "Port Bay Rd",
+      "town": "Aransas County"
+    },
+    "sanpatricio008": {
+      "road": "Ransom Rd",
+      "town": "Aransas Pass"
+    },
+    "aransas002": {
+      "road": "Lamar Beach Rd",
+      "town": "Lamar"
+    },
+    "aransas005": {
+      "road": "Copano Bay Fishing Pier Rd",
+      "town": "Aransas County"
+    },
+    "aransas013": {
+      "name": "Cove Harbor North",
+      "road": "Cove Harbor North",
+      "town": "Rockport"
+    },
+    "sanpatricio009": {
+      "town": "Aransas Pass"
+    },
+    "kleberg005": {
+      "road": "Park Road 22",
+      "town": "Padre Island"
+    },
+    "nueces011": {
+      "road": "South Padre Island Dr",
+      "town": "Corpus Christi"
+    },
+    "nueces006": {
+      "name": "Lawrence Street T-Head",
+      "road": "Lawrence Street T-Head",
+      "town": "Downtown Corpus Christi"
+    },
+    "kleberg008": {
+      "road": "East County Rd 2360",
+      "town": "Kleberg County"
+    },
+    "sanpatricio006": {
+      "road": "Parkview Pl",
+      "town": "Ingleside on the Bay"
+    },
+    "aransas009": {
+      "town": "Rockport"
+    },
+    "nueces014": {
+      "road": "South Padre Island Dr",
+      "town": "Corpus Christi"
+    },
+    "sanpatricio007": {
+      "road": "Live Oak St",
+      "town": "Ingleside on the Bay"
+    },
+    "kleberg009": {
+      "road": "South County Rd 1120",
+      "town": "Kleberg County"
+    },
+    "aransas010": {
+      "town": "Rockport"
+    },
+    "kleberg003": {
+      "name": "Bird Island Basin",
+      "road": "Bird Island Basin Rd",
+      "town": "Padre Island National Seashore"
+    },
+    "aransas003": {
+      "road": "Lamar Beach Rd",
+      "town": "Lamar"
+    },
+    "nueces023": {
+      "road": "J C Barr Blvd",
+      "town": "Port Aransas"
+    },
+    "aransas006": {
+      "road": "Loop 1781",
+      "town": "Copano Village"
+    },
+    "aransas014": {
+      "name": "Cove Harbor South",
+      "road": "Cove Harbor South",
+      "town": "Rockport"
+    },
+    "kleberg006": {
+      "road": "South County Rd 1132",
+      "town": "Loyola Beach"
+    },
+    "nueces024": {
+      "town": "Padre Island"
+    },
+    "nueces012": {
+      "town": "Corpus Christi"
+    },
+    "nueces007": {
+      "road": "Ocean Dr",
+      "town": "Corpus Christi"
+    },
+    "aransas007": {
+      "road": "South Casterline Dr",
+      "town": "Fulton"
+    },
+    "kleberg007": {
+      "town": "Loyola Beach"
+    },
+    "kenedy001": {
+      "town": "Little Shell"
+    },
+    "kleberg001": {
+      "town": "Padre Island"
+    },
+    "nueces018": {
+      "road": "Bounty Ave",
+      "town": "Padre Island"
+    },
+    "sanpatricio010": {
+      "road": "Bigelow St",
+      "town": "Aransas Pass"
+    },
+    "kleberg004": {
+      "name": "Bird Island Basin",
+      "road": "Bird Island Basin Rd",
+      "town": "Padre Island National Seashore"
+    },
+    "aransas004": {
+      "road": "South Palmetto St",
+      "town": "Lamar"
+    },
+    "aransas001": {
+      "road": "State Highway 35 North",
+      "town": "Lamar"
+    },
+    "brazoria003": {
+      "road": "State Highway 36",
+      "town": "Freeport"
+    },
+    "brazoria004": {
+      "road": "Levee Road",
+      "town": "Brazoria County"
+    },
+    "brazoria008": {
+      "road": "FM 2004",
+      "town": "Brazoria County"
+    },
+    "brazoria010": {
+      "road": "Hoskins Mound Road",
+      "town": "Alvin"
+    },
+    "brazoria015": {
+      "road": "Seacoast Drive",
+      "town": "Brazoria County"
+    },
+    "brazoria016": {
+      "road": "San Luis Pass Park",
+      "town": "Treasure Island"
+    },
+    "calhoun001": {
+      "road": "Lamar Street",
+      "town": "Point Comfort"
+    },
+    "cameron008": {
+      "road": "Marshall Hutts Road",
+      "town": "Arroyo City"
+    },
+    "cameron009": {
+      "road": "Rider Street",
+      "town": "Holly Beach"
+    },
+    "cameron010": {
+      "road": "4th Street",
+      "town": "Port Isabel"
+    },
+    "cameron011": {
+      "road": "2nd Street",
+      "town": "Port Isabel"
+    },
+    "cameron012": {
+      "road": "Pompano Avenue",
+      "town": "Port Isabel"
+    },
+    "cameron013": {
+      "road": "West Houston Street",
+      "town": "Port Isabel"
+    },
+    "cameron017": {
+      "town": "South Padre Island"
+    },
+    "cameron018": {
+      "road": "West Whiting Street",
+      "town": "South Padre Island"
+    },
+    "cameron019": {
+      "road": "West Polaris Drive",
+      "town": "South Padre Island"
+    },
+    "cameron020": {
+      "road": "Clipper Lane",
+      "town": "South Padre Island"
+    },
+    "cameron022": {
+      "road": "Shore Drive",
+      "town": "South Padre Island"
+    },
+    "cameron023": {
+      "road": "Brownsville-Port Isabel Highway",
+      "town": "Brownsville"
+    },
+    "cameron025": {
+      "road": "Tarpon Haven / Tarpon Bend Drive",
+      "town": "Starbase"
+    },
+    "cameron026": {
+      "road": "LBJ Boulevard",
+      "town": "Starbase"
+    },
+    "cameron027": {
+      "road": "Boca Chica Boulevard",
+      "town": "Starbase"
+    },
+    "cameron029": {
+      "road": "Swordfish Street",
+      "town": "South Padre Island"
+    },
+    "cameron030": {
+      "road": "Marshall Hutts Road",
+      "town": "Arroyo City"
+    },
+    "chambers003": {
+      "road": "Maley Road",
+      "town": "Cove"
+    },
+    "chambers004": {
+      "road": "McCollum Park Road",
+      "town": "Beach City"
+    },
+    "chambers005": {
+      "road": "Tri City Beach Road",
+      "town": "Baytown"
+    },
+    "chambers012": {
+      "town": "Anahuac"
+    },
+    "chambers013": {
+      "town": "Anahuac"
+    },
+    "chambers016": {
+      "road": "James H Robbins Park",
+      "town": "Chambers County"
+    },
+    "chambers017": {
+      "town": "Chambers County"
+    },
+    "chambers018": {
+      "road": "West Line Road",
+      "town": "Chambers County"
+    },
+    "chambers019": {
+      "road": "Frozen Point Road",
+      "town": "Chambers County"
+    },
+    "galveston001": {
+      "road": "TX 146",
+      "town": "Clear Lake Shores"
+    },
+    "galveston002": {
+      "road": "Park Road",
+      "town": "Texas City"
+    },
+    "galveston003": {
+      "road": "1st Street",
+      "town": "San Leon"
+    },
+    "galveston004": {
+      "road": "9th Street",
+      "town": "San Leon"
+    },
+    "galveston005": {
+      "road": "TX 146",
+      "town": "Texas City"
+    },
+    "galveston006": {
+      "road": "48th Street",
+      "town": "Dickinson"
+    },
+    "galveston007": {
+      "road": "Dike Access Road",
+      "town": "Texas City"
+    },
+    "galveston008": {
+      "road": "Texas City Dike Road",
+      "town": "Texas City"
+    },
+    "galveston009": {
+      "road": "Texas City Dike Road",
+      "town": "Texas City"
+    },
+    "galveston010": {
+      "town": "Hitchcock"
+    },
+    "galveston011": {
+      "road": "Highway 6",
+      "town": "Hitchcock"
+    },
+    "galveston012": {
+      "road": "Gulf Freeway",
+      "town": "Virginia Point"
+    },
+    "galveston014": {
+      "road": "Broadway Street",
+      "town": "Galveston"
+    },
+    "galveston015": {
+      "town": "Galveston"
+    },
+    "galveston016": {
+      "road": "Basin Drive",
+      "town": "Jamaica Beach"
+    },
+    "galveston017": {
+      "road": "Dana Drive",
+      "town": "Galveston"
+    },
+    "galveston018": {
+      "road": "61st Street",
+      "town": "Galveston"
+    },
+    "galveston020": {
+      "road": "West Boyt Road",
+      "town": "Galveston County"
+    },
+    "galveston021": {
+      "town": "Galveston County"
+    },
+    "galveston022": {
+      "road": "Yacht Basin",
+      "town": "Rollover"
+    },
+    "galveston023": {
+      "town": "Galveston County"
+    },
+    "galveston024": {
+      "road": "Texas City Dike Road",
+      "town": "Texas City"
+    },
+    "galveston025": {
+      "road": "Texas City Dike Road",
+      "town": "Texas City"
+    },
+    "galveston026": {
+      "road": "Jenkins Trail",
+      "town": "Galveston"
+    },
+    "galveston027": {
+      "road": "Park Road 66",
+      "town": "Galveston"
+    },
+    "galveston028": {
+      "road": "Park Road 66",
+      "town": "Galveston"
+    },
+    "harris019": {
+      "road": "West Bayshore Drive",
+      "town": "Baytown"
+    },
+    "harris020": {
+      "road": "Marlin Lane",
+      "town": "Baytown"
+    },
+    "harris021": {
+      "road": "Thompson Lane",
+      "town": "Harris County"
+    },
+    "harris022": {
+      "road": "East Grand Parkway South",
+      "town": "Baytown"
+    },
+    "harris023": {
+      "road": "Grove Street",
+      "town": "La Porte"
+    },
+    "harris024": {
+      "town": "Seabrook"
+    },
+    "harris027": {
+      "road": "TX 146",
+      "town": "Seabrook"
+    },
+    "harris028": {
+      "road": "East NASA Parkway",
+      "town": "Pasadena"
+    },
+    "harris042": {
+      "road": "Market Street",
+      "town": "Baytown"
+    },
+    "jackson011": {
+      "road": "TX 35",
+      "town": "Jackson County"
+    },
+    "jefferson005": {
+      "road": "H O Mills Highway",
+      "town": "Port Arthur"
+    },
+    "jefferson006": {
+      "road": "Rainbow Lane",
+      "town": "Atreco"
+    },
+    "jefferson007": {
+      "road": "Lee Avenue",
+      "town": "Port Neches"
+    },
+    "jefferson008": {
+      "road": "Lakefront Drive",
+      "town": "Port Arthur"
+    },
+    "jefferson009": {
+      "road": "Pleasure Island Boulevard",
+      "town": "Port Arthur"
+    },
+    "jefferson010": {
+      "road": "Martin Luther King Jr Drive",
+      "town": "Port Arthur"
+    },
+    "jefferson011": {
+      "road": "Dowling Road",
+      "town": "Port Arthur"
+    },
+    "jefferson012": {
+      "road": "South 1st Avenue",
+      "town": "Port Arthur"
+    },
+    "jefferson013": {
+      "road": "Dick Dowling Road",
+      "town": "Port Arthur"
+    },
+    "jefferson014": {
+      "road": "TX 87",
+      "town": "Jefferson County"
+    },
+    "matagorda003": {
+      "road": "Farm to Market Road 521",
+      "town": "Matagorda County"
+    },
+    "matagorda004": {
+      "town": "Matagorda County"
+    },
+    "matagorda007": {
+      "road": "Carancahua Street",
+      "town": "Sargent"
+    },
+    "matagorda008": {
+      "road": "Carancahua Street",
+      "town": "Sargent"
+    },
+    "matagorda009": {
+      "road": "East Bay Boulevard",
+      "town": "Palacios"
+    },
+    "matagorda010": {
+      "road": "Margerum Street",
+      "town": "Palacios"
+    },
+    "matagorda011": {
+      "town": "Palacios"
+    },
+    "matagorda012": {
+      "road": "County Road 341",
+      "town": "Matagorda County"
+    },
+    "matagorda013": {
+      "road": "County Road 213",
+      "town": "Matagorda"
+    },
+    "matagorda014": {
+      "road": "County Road 238",
+      "town": "Matagorda County"
+    },
+    "orange003": {
+      "road": "Old Ferry Road",
+      "town": "Orange County"
+    },
+    "orange004": {
+      "road": "Pintail Lane",
+      "town": "Orange County"
+    },
+    "orange005": {
+      "road": "East Roundbunch Road",
+      "town": "Orange County"
+    },
+    "willacy002": {
+      "road": "Bayshore Drive",
+      "town": "Port Mansfield"
+    },
+    "willacy003": {
+      "road": "Mansfield Drive",
+      "town": "Port Mansfield"
+    },
+    "willacy004": {
+      "road": "Laguna Drive",
+      "town": "Port Mansfield"
+    },
+    "willacy005": {
+      "town": "Port Mansfield"
+    },
+    "willacy006": {
+      "town": "Port Mansfield"
+    },
+    "willacy007": {
+      "town": "Willacy County"
+    },
+    "willacy008": {
+      "town": "Willacy County"
+    },
+    "willacy009": {
+      "town": "Willacy County"
+    },
+    "cal-froggys": {
+      "road": "Byers St",
+      "town": "Port O'Connor"
+    },
+    "cal-seadrift-bayfront": {
+      "road": "W Bay Ave",
+      "town": "Seadrift"
+    },
+    "cal-swan-point": {
+      "road": "Swan Point Rd",
+      "town": "Seadrift"
+    },
+    "cal-six-mile": {
+      "road": "Park Rd",
+      "town": "Six Mile (Port Lavaca)"
+    },
+    "cal-magnolia-beach": {
+      "town": "Magnolia Beach"
+    },
+    "cal-lighthouse-beach": {
+      "road": "Lighthouse Beach Dr",
+      "town": "Port Lavaca"
+    },
+    "cal-bayfront-peninsula": {
+      "road": "E Main St",
+      "town": "Port Lavaca"
+    },
+    "cal-poc-fishing-center": {
+      "road": "Water St",
+      "town": "Port O'Connor"
+    }
+  },
+  "rampDetails": {
+    "jefferson010": {
+      "name": "Mesquite Point ramp",
+      "checkedOn": "2026-11-15"
+    },
+    "jefferson007": {
+      "name": "Port Neches Park ramp",
+      "checkedOn": "2026-11-15"
+    },
+    "jefferson008": {
+      "name": "Pleasure Island Marina ramp",
+      "checkedOn": "2026-11-15"
+    },
+    "jefferson013": {
+      "name": "Sabine Pass Battleground ramp",
+      "checkedOn": "2026-11-15"
+    },
+    "cal-froggys": {
+      "name": "Froggy's ramp (county)",
+      "checkedOn": "2026-11-16"
+    },
+    "cal-seadrift-bayfront": {
+      "name": "Seadrift Bayfront Park ramp",
+      "checkedOn": "2026-11-16"
+    },
+    "cal-swan-point": {
+      "name": "Swan Point ramp (Sanders Park)",
+      "checkedOn": "2026-11-16"
+    },
+    "cal-six-mile": {
+      "name": "Six Mile Park ramp",
+      "checkedOn": "2026-11-16"
+    },
+    "cal-magnolia-beach": {
+      "name": "Magnolia Beach ramp",
+      "checkedOn": "2026-11-16"
+    },
+    "cal-lighthouse-beach": {
+      "name": "Lighthouse Beach ramp",
+      "checkedOn": "2026-11-16"
+    },
+    "cal-bayfront-peninsula": {
+      "name": "Bayfront Peninsula Park ramp",
+      "checkedOn": "2026-11-16"
+    },
+    "cal-poc-fishing-center": {
+      "name": "The Fishing Center ramp",
+      "checkedOn": "2026-11-16",
+      "privateRamp": true
+    }
+  },
+  "rampSourceNote": "Ramp locations from Texas Parks and Wildlife, plus Calhoun County ramps checked against county, TPWD and USGS sources. Place names © OpenStreetMap contributors.",
+  "baitShops": [
+    {
+      "id": "causeway-bait",
+      "name": "Causeway Bait, Tackle & Grill",
+      "address": "3897 Martin Luther King Jr Dr, Port Arthur, TX 77640",
+      "town": "Pleasure Island (under the Causeway bridge)",
+      "phone": "4099854811",
+      "liveBait": "yes",
+      "note": "Also a grill.",
+      "lat": 29.7646,
+      "lon": -93.8997,
+      "coordSource": "OSM shop \"Causeway Bait, Tackle and Grill\"; across the road from Walter Umphrey SP per CVB",
+      "checkedOn": "2026-11-16",
+      "googleCheckedOn": "2026-11-16"
+    },
+    {
+      "id": "fish-or-hunt",
+      "name": "Fish or Hunt",
+      "address": "3001 State Hwy 73, Port Arthur, TX 77640",
+      "town": "Port Arthur",
+      "phone": "4097361900",
+      "liveBait": "ask",
+      "note": "Now also a gas station. A recent Google Maps review says live bait stopped; the CVB guide still lists it.",
+      "lat": 29.8892,
+      "lon": -94.0403,
+      "coordSource": "OSM 29.8893,-94.0404 and Census 29.8890,-94.0401 agree",
+      "checkedOn": "2026-11-16",
+      "googleCheckedOn": "2026-11-16"
+    },
+    {
+      "id": "luck-in-a-bucket",
+      "name": "Luck in a Bucket Bait Camp",
+      "address": "344 Hwy 365, Port Arthur, TX 77640",
+      "town": "Port Arthur",
+      "phone": "4097363486",
+      "liveBait": "yes",
+      "note": "Salt and freshwater live bait.",
+      "lat": 29.9216,
+      "lon": -94.0173,
+      "coordSource": "Census (street-range estimate)",
+      "checkedOn": "2026-11-16",
+      "googleCheckedOn": "2026-11-16"
+    },
+    {
+      "id": "savannah-bait",
+      "name": "Savannah Live Bait Shop",
+      "address": "1948 Savannah Ave, Port Arthur, TX 77640",
+      "town": "Port Arthur",
+      "phone": "4099820800",
+      "liveBait": "yes",
+      "note": "Also a deli and food store.",
+      "lat": 29.8871,
+      "lon": -93.9438,
+      "coordSource": "Census (city street, exact match)",
+      "checkedOn": "2026-11-16",
+      "googleCheckedOn": "2026-11-16"
+    },
+    {
+      "id": "port-of-sabine-pass",
+      "name": "Port of Sabine Pass marina",
+      "address": "5960 S 1st Ave, Sabine Pass, TX 77655",
+      "town": "Sabine Pass",
+      "phone": "4099712411",
+      "liveBait": "yes",
+      "note": "Marina with fuel and live bait.",
+      "lat": 29.736,
+      "lon": -93.882,
+      "coordSource": "marinas.com 29.7360,-93.8820; OSM street S 1st Ave 29.7393,-93.8901",
+      "checkedOn": "2026-11-16",
+      "googleCheckedOn": "2026-11-16"
+    },
+    {
+      "id": "sportsman-supply",
+      "name": "Sportsman's Supply",
+      "address": "5310 S Gulfway Dr, Sabine Pass, TX 77655",
+      "town": "Sabine Pass",
+      "phone": "4099712535",
+      "liveBait": "ask",
+      "note": "Tackle and supplies. Google Maps reviewers mention live and frozen bait; the CVB guide lists tackle only.",
+      "lat": 29.7328,
+      "lon": -93.895,
+      "coordSource": "OSM address point 5310 S Gulfway Dr",
+      "checkedOn": "2026-11-16",
+      "googleCheckedOn": "2026-11-16"
+    }
+  ],
+  "baitSourceNote": "From the Port Arthur CVB Waterways Guide (2025) and visitportarthurtx.com, checked online. Hours are not listed. Call before you drive: live bait sells out and small shops close."
+}
