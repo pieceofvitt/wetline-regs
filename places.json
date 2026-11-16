@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": 3,
+  "version": 5,
   "published": "2026-11-16",
   "ramps": [
     {
@@ -902,6 +902,48 @@
       "water": "Lavaca Bay",
       "lat": 28.6181,
       "lon": -96.6212
+    },
+    {
+      "id": "calhoun003",
+      "water": "Hog Bayou",
+      "lat": 28.4966,
+      "lon": -96.8432
+    },
+    {
+      "id": "cal-chocolate-bayou",
+      "water": "Chocolate Bayou",
+      "lat": 28.5777,
+      "lon": -96.65
+    },
+    {
+      "id": "cal-olivia-haterius",
+      "water": "Keller Bay",
+      "lat": 28.6366,
+      "lon": -96.4558
+    },
+    {
+      "id": "ref-austwell",
+      "water": "Hynes Bay",
+      "lat": 28.3918,
+      "lon": -96.8383
+    },
+    {
+      "id": "cal-harbor-of-refuge",
+      "water": "Lavaca Bay",
+      "lat": 28.595,
+      "lon": -96.6199
+    },
+    {
+      "id": "cal-powderhorn-rv",
+      "water": "Powderhorn Lake",
+      "lat": 28.5097,
+      "lon": -96.5062
+    },
+    {
+      "id": "cal-indianola-marina",
+      "water": "Powderhorn Bayou",
+      "lat": 28.5118,
+      "lon": -96.488
     }
   ],
   "rampPlaces": {
@@ -1482,6 +1524,34 @@
     "cal-poc-fishing-center": {
       "road": "Water St",
       "town": "Port O'Connor"
+    },
+    "calhoun003": {
+      "road": "north of SH 35",
+      "town": "Calhoun County (Guadalupe delta)"
+    },
+    "cal-chocolate-bayou": {
+      "road": "SH 238 bridge",
+      "town": "Port Lavaca"
+    },
+    "cal-olivia-haterius": {
+      "road": "end of SH 172",
+      "town": "Olivia"
+    },
+    "ref-austwell": {
+      "road": "Bay St",
+      "town": "Austwell"
+    },
+    "cal-harbor-of-refuge": {
+      "road": "Mowen Dr",
+      "town": "Port Lavaca"
+    },
+    "cal-powderhorn-rv": {
+      "road": "Powderhorn Ln",
+      "town": "Indianola"
+    },
+    "cal-indianola-marina": {
+      "road": "Bell St",
+      "town": "Indianola"
     }
   },
   "rampDetails": {
@@ -1533,9 +1603,39 @@
       "name": "The Fishing Center ramp",
       "checkedOn": "2026-11-16",
       "privateRamp": true
+    },
+    "calhoun003": {
+      "name": "Hog Bayou ramp (county)",
+      "checkedOn": "2026-11-16"
+    },
+    "cal-chocolate-bayou": {
+      "name": "Chocolate Bayou ramp (county)",
+      "checkedOn": "2026-11-16"
+    },
+    "cal-olivia-haterius": {
+      "name": "Olivia Haterius Park ramp",
+      "checkedOn": "2026-11-16"
+    },
+    "ref-austwell": {
+      "name": "Austwell bayfront ramp",
+      "checkedOn": "2026-11-16"
+    },
+    "cal-harbor-of-refuge": {
+      "name": "Harbor of Refuge ramp",
+      "checkedOn": "2026-11-16"
+    },
+    "cal-powderhorn-rv": {
+      "name": "Powderhorn RV Park ramp",
+      "checkedOn": "2026-11-16",
+      "privateRamp": true
+    },
+    "cal-indianola-marina": {
+      "name": "Indianola Fishing Marina ramp",
+      "checkedOn": "2026-11-16",
+      "privateRamp": true
     }
   },
-  "rampSourceNote": "Ramp locations from Texas Parks and Wildlife, plus Calhoun County ramps checked against county, TPWD and USGS sources. Place names © OpenStreetMap contributors.",
+  "rampSourceNote": "Ramp locations from Texas Parks and Wildlife, plus Calhoun County and Austwell ramps checked against county, city, TPWD and USGS sources. Place names © OpenStreetMap contributors.",
   "baitShops": [
     {
       "id": "causeway-bait",
