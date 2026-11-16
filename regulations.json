@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": 1,
-  "published": "2026-11-15",
+  "version": 3,
+  "published": "2026-11-16",
   "datasets": [
     {
       "licenseYear": "2026-27",
@@ -141,6 +141,55 @@
           "possession": "No limit (state waters)",
           "extra": "No Texas state limit. Federal waters (past 9 nautical miles): 12 in minimum, 10 per day.",
           "tpwdUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/snapper-bag-length-limits"
+        },
+        {
+          "id": "tripletail",
+          "name": "Tripletail",
+          "minInches": 17,
+          "maxInches": null,
+          "dailyBag": 3,
+          "possession": "Double the bag",
+          "tpwdUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/tripletail-bag-length-limits"
+        },
+        {
+          "id": "sand-trout",
+          "name": "Sand trout (sand seatrout)",
+          "minInches": null,
+          "maxInches": null,
+          "dailyBag": null,
+          "possession": "No limit",
+          "extra": "No Texas bag or size limit (not on the TPWD limits list). Not the same as speckled trout.",
+          "tpwdUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/"
+        },
+        {
+          "id": "croaker",
+          "name": "Atlantic croaker",
+          "minInches": null,
+          "maxInches": null,
+          "dailyBag": null,
+          "possession": "No limit",
+          "extra": "No Texas bag or size limit (not on the TPWD limits list).",
+          "tpwdUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/"
+        },
+        {
+          "id": "hardhead",
+          "name": "Hardhead catfish",
+          "minInches": null,
+          "maxInches": null,
+          "dailyBag": null,
+          "possession": "No limit",
+          "extra": "No Texas bag or size limit (not on the TPWD limits list). Gafftop DO have a 14 in minimum.",
+          "tpwdUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/"
+        },
+        {
+          "id": "pompano",
+          "name": "Florida pompano",
+          "minInches": null,
+          "maxInches": null,
+          "dailyBag": null,
+          "possession": "No limit",
+          "extra": "No Texas bag or size limit (not on the TPWD limits list).",
+          "tpwdUrl": "https://tpwd.texas.gov/regulations/outdoor-annual/fishing/saltwater-fishing/bag-length-limits/"
         }
       ]
     }
